@@ -1,2 +1,3 @@
 # hello-world
-Hello World GitHub assignment. Prints out a line that says 
+Hello World GitHub assignment. 
+heres my first commit lol
